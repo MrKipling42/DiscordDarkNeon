@@ -19,10 +19,10 @@
 
 /* CUSTOMIZE COLORS IN HERE! */
 :root {
-  --rgb-highlight: 108, 28, 230; /* The main highlight color */
-  --rgb-background: 27, 26, 28; /* The main background color */
-  --rgb-text: 108, 28, 230; /* The main text color */
-  --rgb-close-button: 52, 30, 1439; /* The main "close this" or "deny" color */
+  --rgb-highlight: 77, 255, 151; /* The main highlight color */
+  --rgb-background: 0, 0, 0; /* The main background color */
+  --rgb-text: 77, 255, 151; /* The main text color */
+  --rgb-close-button: 107, 0, 0; /* The main "close this" or "deny" color */
   --rgb-online-color: 16, 232, 131; /* The color used in the "online" user status symbol */
   --rgb-afk-color: 205, 235, 14; /* The color used in the "idle" user status symbol */
   --rgb-dnd-color: 242, 24, 12; /* The color used in the "do not disturb" user status symbol */
